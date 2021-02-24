@@ -1,8 +1,8 @@
-![ERD](/Entity_Relationship_Diagram.png)
-
 # ETL_project
 
 This project is part of the Data Science and Visualization Bootcamp at UCSD Extension. 
+
+![ERD](/Entity_Relationship_Diagram.png)
 
 Project Intro/Objective
 The aim of this project is to perform ETL and merge two datasets - PPP loans and COVID-19 cases for California - to allow researchers to evaluate for a possible link between COVID-19 infection cases and receipt of PPP loans. This project was co-engineered by four people: Stephen Hong, Laura Paakh May, Nghia Nguyen, and Sagar Patel.
